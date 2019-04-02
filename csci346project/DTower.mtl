@@ -1,0 +1,81 @@
+# Blender MTL File: 'DTowerV1packed (1).blend'
+# Material Count: 7
+
+newmtl Glass
+Ns 96.078431
+Ka 0.485167 0.469664 0.636531
+Kd 0.325413 0.317267 0.404951
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.001000
+illum 6
+map_Bump -bm 1.268450 C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+map_d C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+
+newmtl Glass2
+Ns 96.078431
+Ka 0.485167 0.469664 0.636531
+Kd 0.325413 0.317267 0.404951
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.001000
+illum 6
+map_Bump -bm 1.268450 C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+map_d C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+
+newmtl Glass3
+Ns 96.078431
+Ka 0.363015 0.375265 0.497762
+Kd 0.316812 0.327020 0.404410
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.501410
+d 1.000000
+illum 6
+map_Bump -bm 1.197987 C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+map_Kd C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+map_d C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+
+newmtl GlassTube
+Ns 96.078431
+Ka 0.485167 0.469664 0.636531
+Kd 0.325413 0.317267 0.404951
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.001000
+illum 6
+map_Bump -bm 1.268450 C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+map_d C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+
+newmtl Glass_Cylinder
+Ns 96.078431
+Ka 0.485167 0.469664 0.636531
+Kd 0.325413 0.317267 0.404951
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.001000
+illum 6
+map_Bump -bm 1.268450 C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+map_d C:\\Documents and Settings\\Darren\\My Documents\\blender\\textures\\cross.png
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Siding
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

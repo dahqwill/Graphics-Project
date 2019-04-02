@@ -1,0 +1,7 @@
+var reflection = THREE.ImageUtils.loadTextureCube( [ 'cubetexture.png', 'cubetexture.png', 'cubetexture.png', 'cubetexture.png', 'cubetexture.png', 'cubetexture.png' ] );
+var geometry1 = new THREE.BoxGeometry( 100, 100, 100 );
+var material = new THREE.MeshBasicMaterial( {
+    color: 0x00fff0,
+    envMap: reflection,
+    //reflectivity:0.9
+    refractionRatio: 0.95 
